@@ -53,15 +53,15 @@ global.mess = {
     error: "`Error!`",
 };
 
-global.ytname = "YT: https://www.youtube.com/@creepy_technology";
+global.ytname = "YT: https://youtube.com/@shinobi_editz-?si=15l-BajnrpOIj9UK";
 global.socialm = "GitHub: https://github.com/DannyTech20";
-global.location = "Arusha/Tanzania";
-global.ownername = "𝐷𝛥𝛮𝛮𝑌";
+global.location = "Asia/Bihar";
+global.ownername = "SHINOBI";
 global.botname = "CREEPY_MD-V1"; 
 
 // Sticker details
-global.packname = "Creepy-Tech";
-global.author = "Danny";
+global.packname = "GIN";
+global.author = "GIN";
 
 // Console view/theme
 global.themeemoji = "🤖";
